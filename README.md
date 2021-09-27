@@ -1,8 +1,7 @@
 ### Hi there , Nishan here  👋 
 
-![cat](https://cataas.com/cat?type=medium)
 
-Refresh this page to see more cats 
+![cat](https://cataas.com/cat/gif)
 
 ![counter](https://en6lwxccfrsqplo.m.pipedream.net)
 
