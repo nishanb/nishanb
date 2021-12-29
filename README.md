@@ -1,7 +1,7 @@
 ### Hi there , Nishan here  👋 
 
 
-![counter](https://en6lwxccfrsqplo.m.pipedream.net)
+
 ![](https://github-profile-view.herokuapp.com/github)
 
 
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![counter](https://en6lwxccfrsqplo.m.pipedream.net)
 -->
