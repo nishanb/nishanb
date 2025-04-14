@@ -16,3 +16,4 @@ Software Engineer based in Bengaluru with experience in Backend Development, Lin
 ## 📫 Connect
 
 - Website: [nishann.com](https://nishann.com)
+- LinkedIn: [nishanb](https://www.linkedin.com/in/nishanb/)
