@@ -13,7 +13,4 @@ Software Engineer based in Bengaluru with experience in Backend Development, Lin
 - Cybersecurity & Application Security
 - DevOps (Docker, Kubernetes, AWS)
 
-## 📫 Connect
 
-- Website: [nishann.com](https://nishann.com)
-- LinkedIn: [Nishan B](https://www.linkedin.com/in/nishanb/)
