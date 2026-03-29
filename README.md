@@ -2,10 +2,6 @@
 
 Software Engineer based in Bengaluru with experience in Backend Development, Linux, Networking, and Cybersecurity.
 
-## 🔭 Current Project
-
-[CK-X Simulator](https://github.com/nishanb/CK-X) - An open-source platform helping professionals prepare for Kubernetes certification exams (CKAD, CKA, CKS).
-
 ## 💻 Skills
 
 - Backend Development (Java, Node.js, Python )
